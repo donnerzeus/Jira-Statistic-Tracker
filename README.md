@@ -74,8 +74,8 @@ Enterprise-level analytics dashboard for Jira Service Management and Software pr
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd jiraportal
+git clone https://github.com/donnerzeus/Jira-Statistic-Tracker.git
+cd Jira-Statistic-Tracker
 ```
 
 ### 2. Install dependencies
